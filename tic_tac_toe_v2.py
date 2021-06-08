@@ -1,7 +1,7 @@
 # Tic Tac Toe Final Project
 # IS-201 Fundamentals of Computing
 # Jammie Steele, Henok Mekonnen, Chirstian Morris
-# June 10 2021
+# June 08 2021
 
 import sys
 
